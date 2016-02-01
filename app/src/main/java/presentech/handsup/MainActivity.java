@@ -56,4 +56,8 @@ public class MainActivity extends AppCompatActivity {
             //failed with error: unable to read askpass response from my git-askpass-0.bat file.
 
     }
+
+    public void secondTestMethod(){
+
+    }
 }
