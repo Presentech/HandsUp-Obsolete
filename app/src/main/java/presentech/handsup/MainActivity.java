@@ -61,6 +61,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void edsTestMethod2(){
+
+    }
+
     public void edsTestMethod(){
 
     }
